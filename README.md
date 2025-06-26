@@ -5,7 +5,7 @@
 A modern GUI application for encoding and decoding messages using colored dot patterns. This application allows you to encrypt text messages into a visual representation where each character is represented by a unique pattern of colored dots.
 
 
-![something][images/crypt_image.png]
+![something](images/crypt_image.png)
 
 ![Dot Cryptography App](https://github.com/username/dot-cryptography/assets/screenshot.png) *(Add your own screenshot here)*
 
