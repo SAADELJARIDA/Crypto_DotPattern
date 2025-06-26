@@ -6,11 +6,11 @@ A modern GUI application for encoding and decoding messages using colored dot pa
 
 
 #### Encrypting
-![something][images/crypt_image.png)
+![encrypt](images/crypt_image.png)
 
 
 #### Decrypting
-![something][images/decrypt_image.png)
+![decrypt](images/decrypt_image.png)
 
 ![Dot Cryptography App](https://github.com/username/dot-cryptography/assets/screenshot.png) *(Add your own screenshot here)*
 
