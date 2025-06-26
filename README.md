@@ -1,8 +1,9 @@
 # Dot Cryptography App
 
 ## School Project (saad and zindine)
+This is a collaborative project developed by my self and Zindine-my class teammate-, focusing on cryptography fundamentals and secure message encoding/decoding. The main goal of this project is to explore how data can be encrypted and hidden using visual techniques and Python programming.
 
-A modern GUI application for encoding and decoding messages using colored dot patterns. This application allows you to encrypt text messages into a visual representation where each character is represented by a unique pattern of colored dots.
+The program is a   modern GUI application for encoding and decoding messages using colored dot patterns. This application allows you to encrypt text messages into a visual representation where each character is represented by a unique pattern of colored dots.
 
 
 #### Encrypting
